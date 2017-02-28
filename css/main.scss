@@ -33,11 +33,22 @@
   }
 }
 
+i.medium {
+  font-size: 3rem;
+}
+
 .icon-block {
   padding: 0 15px;
 }
 .icon-block .material-icons {
   font-size: inherit;
+}
+
+#nav-logo img {
+  padding-left: 5px;
+  padding-top: 5px;
+  -webkit-filter: drop-shadow(2px 2px 2px #000000);
+  filter: drop-shadow(2px 2px 2px #000000);
 }
 
 footer.page-footer {

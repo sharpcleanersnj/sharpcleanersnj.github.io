@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<h3 class="center">Current Deals <i class="medium green-text material-icons">loyalty</i></h3>
+<div class="container">
+  {% for post in site.posts limit:1 %}
+    <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+    <time>{{ post.date | date: "%b %-d, %Y" }}</time>
+    <p>{{ post.content }}</p>
+  {% endfor %}
+</div>

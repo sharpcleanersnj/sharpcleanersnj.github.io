@@ -1,18 +1,21 @@
-<nav class="light-blue">
-  <div class="nav-wrapper">
-    <a href="#!" id="nav-logo" class="brand-logo"><img src="assets/sharp6.png" alt="logo"></a>
-    <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
-    <ul class="right hide-on-med-and-down">
-      <li><a href="sass.html">Sass</a></li>
-      <li><a href="badges.html">Components</a></li>
-      <li><a href="collapsible.html">Javascript</a></li>
-      <li><a href="mobile.html">Mobile</a></li>
-    </ul>
-    <ul class="side-nav" id="mobile-demo">
-      <li><a href="sass.html">Sass</a></li>
-      <li><a href="badges.html">Components</a></li>
-      <li><a href="collapsible.html">Javascript</a></li>
-      <li><a href="mobile.html">Mobile</a></li>
-    </ul>
-  </div>
-</nav>
+<div class="navbar-fixed">
+  <nav class="light-blue">
+    <div class="nav-wrapper">
+      <a href="{{ site.url }}" id="nav-logo" class="brand-logo"><img src="../assets/sharp6.png" alt="logo"></a>
+      <a href="#" data-activates="mobile" class="button-collapse"><i class="material-icons">menu</i></a>
+      <ul class="right hide-on-med-and-down">
+        <li><a href="{{ "/about" | prepend: site.baseurl }}">About</a></li>
+        <li><a href="{{ "/services" | prepend: site.baseurl }}">Services</a></li>
+        <li><a href="{{ "/deals" | prepend: site.baseurl }}">Deals</a></li>
+        <li><a href="{{ "/contact" | prepend: site.baseurl }}">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
+</div>
+
+<ul class="side-nav" id="mobile">
+  <li><a href="{{ "/about" | prepend: site.baseurl }}">About</a></li>
+  <li><a href="{{ "/services" | prepend: site.baseurl }}">Services</a></li>
+  <li><a href="{{ "/deals" | prepend: site.baseurl }}">Deals</a></li>
+  <li><a href="{{ "/contact" | prepend: site.baseurl }}">Contact</a></li>
+</ul>
