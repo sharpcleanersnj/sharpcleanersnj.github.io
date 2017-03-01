@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="container">
-  <h3>{{ page.title }}</h3>
+<div class="container {% if page.title %}{{ page.title | downcase }} {% endif %}page">
+  <h3 class="center">{{ page.title }} {% if page.icon %}<i class="medium green-text material-icons">{{ page.icon }}{% endif %}</i></h3>
   {{ content }}
 </div>

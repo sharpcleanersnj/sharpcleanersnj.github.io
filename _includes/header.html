@@ -1,7 +1,7 @@
 <div class="navbar-fixed">
   <nav class="light-blue">
     <div class="nav-wrapper">
-      <a href="{{ site.url }}" id="nav-logo" class="brand-logo"><img src="../assets/sharp6.png" alt="logo"></a>
+      <a href="{{ site.url }}" id="nav-logo" class="brand-logo"><img src="{{ "/assets/sharp6.png" | prepend: site.baseurl }}" alt="logo"></a>
       <a href="#" data-activates="mobile" class="button-collapse"><i class="material-icons">menu</i></a>
       <ul class="right hide-on-med-and-down">
         <li><a href="{{ "/about" | prepend: site.baseurl }}">About</a></li>
