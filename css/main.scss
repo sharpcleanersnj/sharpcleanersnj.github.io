@@ -54,3 +54,23 @@ i.medium {
 footer.page-footer {
   margin: 0;
 }
+
+// form styles
+/* label focus color */
+.input-field input[type=text]:focus + label,
+.input-field input[type=email]:focus + label,
+.input-field input[type=tel]:focus + label,
+.input-field textarea:focus:not([readonly]) + label {
+  color: #4fc3f7;
+}
+/* label underline focus color */
+.input-field input[type=text]:focus,
+.input-field input[type=email]:focus,
+.input-field input[type=tel]:focus {
+  border-bottom: 1px solid #4fc3f7;
+  box-shadow: 0 1px 0 0 #4fc3f7;
+}
+.input-field textarea:focus:not([readonly]) {
+  border: 1px solid #4fc3f7;
+  box-shadow: 0 1px 0 0 #4fc3f7;
+}
