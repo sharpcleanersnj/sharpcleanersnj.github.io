@@ -5,7 +5,11 @@
 
   <title>{% if page.title %}{{page.title}}{% else %}{{site.title}}{% endif %}</title>
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link rel="stylesheet" href="{{ "/css/materialize.css" | prepend: site.baseurl }}" type="text/css" media="screen,projection">
+  {% if jekyll.environment == 'production' %}
+    <link rel="stylesheet" href="{{ "/css/materialize.min.css" | prepend: site.baseurl }}" type="text/css" media="screen,projection">
+  {% else %}
+    <link rel="stylesheet" href="{{ "/css/materialize.css" | prepend: site.baseurl }}" type="text/css" media="screen,projection">
+  {% endif %}
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}" type="text/css" media="screen,projection">
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 

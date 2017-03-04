@@ -10,5 +10,8 @@
   </main>
   {% include footer.html %}
   {% include scripts.html %}
+  {% if jekyll.environment == 'production' %}
+    {% include ga.html %}
+  {% endif %}
 </body>
 </html>
