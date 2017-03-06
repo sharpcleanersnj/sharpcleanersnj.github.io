@@ -12,7 +12,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque id n
 Just fill out the form below, and we'll be in touch soon!
 
 <div class="row">
-  <form class="col s12" method="POST" action="https://formspree.io/sharpcleanersnj@gmail.com">
+  <form class="col s12" method="POST" action="https://formspree.io/sharpcleaners@gmail.com">
     <div class="row">
       <div class="input-field col s12">
         <input id="name" type="text" class="validate" name="name">
