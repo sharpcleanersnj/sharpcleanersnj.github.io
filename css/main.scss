@@ -70,6 +70,10 @@ footer.page-footer {
   margin: 0;
 }
 
+footer i {
+  vertical-align: middle;
+}
+
 // form styles
 /* label focus color */
 .input-field input[type=text]:focus + label,
