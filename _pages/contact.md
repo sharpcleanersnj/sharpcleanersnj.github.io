@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-Please feel free to contact us with the form below. We will do our best to get back to you right away. You can also reach us by phone at any of our four locations. 
+Please use the form below to send us a message with any questions or comments. We will do our best to get back to you right away. We also welcome you to visit us or call us at any of our four locations. 
 <br>
 <table style="width: 103.226%; border-collapse: collapse; height: 404px;">
 <tbody>
