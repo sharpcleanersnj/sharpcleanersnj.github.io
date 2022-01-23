@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-Please use the form below to send us a message with any questions or comments. We also welcome you to visit or call us at any of our four locations. 
+Please use the form below to send us a message with any questions or comments. We also welcome you to visit or call us at any of our four locations. FOr general information or questions call (609) 365-0711.
 
 <table style="margin-left: auto; margin-right: auto;">
 <tbody>
