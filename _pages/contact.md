@@ -10,13 +10,13 @@ Please feel free to contact us with the form below. We will do our best to get b
 <tbody>
 <tr>
 <td style="width: 25%; text-align: center; vertical-align: top;">
-<h3><strong>Ventnor</strong></h3>
+<h4><strong>Ventnor</strong></h4>
 <p><span style="color: #808080;"><strong>Dry Cleaners</strong></span></p>
 <strong>6519 Ventnor Ave. <br>Ventnor, NJ 08406<br>(609) 822-5866</strong>
 <p>&nbsp;</p>
 </td>
 <td style="width: 25%; text-align: center; vertical-align: top;">
-<h3><strong>Ocean City</strong></h3>
+<h4><strong>Ocean City</strong></h4>
 <p><span style="color: #808080;"><strong>Dry Cleaners</strong></span></p>
 <p><strong>121 E. 10th St.<br>Ocean City, NJ 08226</strong></p>
 <p><span style="color: #808080;"><strong>Laundromat</strong></span></p>
@@ -25,12 +25,12 @@ Please feel free to contact us with the form below. We will do our best to get b
 <p>&nbsp;</p>
 </td>
 <td style="width: 25%; text-align: center; vertical-align: top;">
-<h3><strong>Sea Isle City</strong></h3>
+<h4><strong>Sea Isle City</strong></h4>
 <p><strong><span style="color: #808080;">Dry Cleaners</span></strong></p>
 <p><strong>6216 Landis Ave.<br>Sea Isle City, NJ 08243<br>(609) 263-6400</strong></p>
 </td>
 <td style="width: 25%; text-align: center; vertical-align: top;">
-<h3><strong>Wildwood</strong></h3>
+<h4><strong>Wildwood</strong></h4>
 <p><strong><span style="color: #808080;">Dry Cleaners &amp; Laundromat</span></strong></p>
 <p><strong>3401 New Jersey Ave. #4<br>Wildood, NJ 08260<br>(609) 522-7719</strong></p>
 <p>&nbsp;</p>
