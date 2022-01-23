@@ -12,9 +12,9 @@ Please feel free to contact us with the form below. We will do our best to get b
 <td style="width: 25%; text-align: center; vertical-align: top;">
 <h3><strong>Ventnor</strong></h3>
 <p><span style="color: #808080;"><strong>Dry Cleaners</strong></span></p>
-<p><strong>6519 Ventnor Ave.</strong></p>
-<p><strong>Ventnor, NJ 08406</strong></p>
-<p><strong>(609) 822-5866</strong></p>
+<p><strong>6519 Ventnor Ave.</br>
+Ventnor, NJ 08406</br>
+  </br>(609) 822-5866
 <p>&nbsp;</p>
 </td>
 <td style="width: 25%; text-align: center; vertical-align: top;">
