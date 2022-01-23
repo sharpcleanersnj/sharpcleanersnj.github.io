@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 Please feel free to contact us with the form below. We will do our best to get back to you right away. You can also reach us by phone at any of our four locations. 
-<p>&nbsp;</p>
+<br>
 <table style="width: 103.226%; border-collapse: collapse; height: 404px;">
 <tbody>
 <tr>
