@@ -4,8 +4,49 @@ title: Contact
 permalink: /contact/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque id nunc nec volutpat. Etiam pellentesque tristique arcu, non consequat magna fermentum ac. Cras ut ultricies eros. Maecenas eros justo, ullamcorper a sapien id, viverra ultrices eros. Morbi sem neque, posuere et pretium eget, bibendum sollicitudin lacus. Aliquam eleifend sollicitudin diam, eu mattis nisl maximus sed. Nulla imperdiet semper molestie. Morbi massa odio, condimentum sed ipsum ac, gravida ultrices erat. Nullam eget dignissim mauris, non tristique erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
-
+Please feel free to contact us with the form below. We will do our best to get back to you right away. You can also reach us by phone at any of our four locations. 
+<p>&nbsp;</p>
+<table style="width: 103.226%; border-collapse: collapse; height: 404px;">
+<tbody>
+<tr>
+<td style="width: 25%; text-align: center; vertical-align: top;">
+<h2><strong>Ventnor</strong></h2>
+<p><span style="color: #808080;"><strong>Dry Cleaners</strong></span></p>
+<p><strong>6519 Ventnor Ave.</strong></p>
+<p><strong>Ventnor, NJ 08406</strong></p>
+<p><strong>(609) 822-5866</strong></p>
+<p>&nbsp;</p>
+<h2>&nbsp;</h2>
+</td>
+<td style="width: 25%; text-align: center; vertical-align: top;">
+<h2><strong>Ocean City</strong></h2>
+<p><span style="color: #808080;"><strong>Dry Cleaners</strong></span></p>
+<p><strong>121 E. 10th St.</strong></p>
+<p><span style="color: #808080;"><strong>Laundromat</strong></span></p>
+<p><strong>742 Haven Ave.</strong></p>
+<p><strong>Ocean City, NJ 08226</strong></p>
+<p><strong>(609) 399-7399</strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td style="width: 25%; text-align: center; vertical-align: top;">
+<h2><strong>Sea Isle City</strong></h2>
+<p><strong><span style="color: #808080;">Dry Cleaners</span></strong></p>
+<p><strong>6216 Landis Ave.</strong></p>
+<p><strong>Sea Isle City, NJ 08243</strong></p>
+<p><strong>(609) 263-6400</strong></p>
+</td>
+<td style="width: 25%; text-align: center; vertical-align: top;">
+<h2><strong>Wildwood</strong></h2>
+<p><strong><span style="color: #808080;">Dry Cleaners &amp; Laundromat</span></strong></p>
+<p><strong>3401 New Jersey Ave. #4</strong></p>
+<p><strong>Wildood, NJ 08260</strong></p>
+<p><strong>(609) 522-7719</strong></p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 ### Questions? Comments?
 ##### We would love to hear from you!
