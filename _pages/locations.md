@@ -4,4 +4,26 @@ title: Locations
 permalink: /locations/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque id nunc nec volutpat. Etiam pellentesque tristique arcu, non consequat magna fermentum ac. Cras ut ultricies eros. Maecenas eros justo, ullamcorper a sapien id, viverra ultrices eros. Morbi sem neque, posuere et pretium eget, bibendum sollicitudin lacus. Aliquam eleifend sollicitudin diam, eu mattis nisl maximus sed. Nulla imperdiet semper molestie. Morbi massa odio, condimentum sed ipsum ac, gravida ultrices erat. Nullam eget dignissim mauris, non tristique erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+<table style="margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="vertical-align: top;">
+<h4 style="text-align: center;"><strong>Ventnor</strong></h4>
+<p style="text-align: center;"><span style="color: #808080;"><strong>Dry Cleaners</strong></span><br /><strong>6519 Ventnor Ave. <br />Ventnor, NJ 08406<br />(609) 822-5866</strong></p>
+</td>
+<td style="text-align: center; vertical-align: top;">
+<h4><strong>Ocean City</strong></h4>
+<p><span style="color: #808080;"><strong>Dry Cleaners</strong></span><br /><strong>121 E. 10th St.<br />Ocean City, NJ 08226<br />(609) 399-7399</strong></p>
+<p><span style="color: #808080;"><strong>Laundromat</strong></span><br /><strong>742 Haven Ave<br />Ocean City, NJ 08226<br />(609) 365-0711</strong></p>
+</td>
+<td style="text-align: center; vertical-align: top;">
+<h4><strong>Sea Isle City</strong></h4>
+<p><span style="color: #808080;"><strong>Dry Cleaners</strong></span><br /><strong>6216 Landis Ave.<br />Sea Isle City, NJ 08243<br />(609) 263-6400</strong></p>
+</td>
+<td style="text-align: center; vertical-align: top;">
+<h4><strong>Wildwood</strong></h4>
+<p><span style="color: #808080;"><strong>Dry Cleaners &amp; Laundromat</strong></span><br /><strong>3401 New Jersey Ave. #4<br />Wildood, NJ 08260<br />(609) 522-7719</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
