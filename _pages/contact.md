@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-Please use the form below to send us a message with any questions or comments. We also welcome you to visit or call us at any of our four locations. FOr general information or questions call (609) 365-0711.
+Please use the form below to send us a message with any questions or comments. We also welcome you to visit or call us at any of our four locations. For general information or questions call (609) 365-0711.
 
 <table style="margin-left: auto; margin-right: auto;">
 <tbody>
@@ -15,8 +15,8 @@ Please use the form below to send us a message with any questions or comments. W
 </td>
 <td style="text-align: center; vertical-align: top;">
 <h4><strong>Ocean City</strong></h4>
-<p><span style="color: #808080;"><strong>Dry Cleaners</strong></span><br /><strong>121 E. 10th St.<br /></strong></p>
-<p><span style="color: #808080;"><strong>Laundromat</strong></span><br /><strong>742 Haven Ave<br />Ocean City, NJ 08226<br />(609) 399-7399</strong></p>
+<p><span style="color: #808080;"><strong>Dry Cleaners</strong></span><br /><strong>121 E. 10th St.<br />Ocean City, NJ 08226<br />(609) 399-7399</strong></p>
+<p><span style="color: #808080;"><strong>Laundromat</strong></span><br /><strong>742 Haven Ave<br />Ocean City, NJ 08226<br />(609) 365-0711</strong></p>
 </td>
 <td style="text-align: center; vertical-align: top;">
 <h4><strong>Sea Isle City</strong></h4>
