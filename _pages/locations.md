@@ -3,7 +3,7 @@ layout: page
 title: Locations
 permalink: /locations/
 ---
-
+<p align=center><h3 style="text-align: center;"><strong>Locations & Store Hours</strong></h3></p>
 <table style="margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
