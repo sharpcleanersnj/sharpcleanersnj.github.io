@@ -12,4 +12,4 @@ permalink: /services/
 <li>Wash-n-Fold Laundry Service</li>
 <li>Pick-Up & Delivery Available</li>
 <li>Shoe Repairs</li>
-</ul>
+
