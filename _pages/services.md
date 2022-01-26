@@ -4,7 +4,7 @@ title: Services
 permalink: /services/
 ---
 
-<ul>
+<ul><strong>
 <li>Professional Full Service Dry Cleaning</li>
 <li>Wedding Gown Cleaning & Preservation</li>
 <li>Leather and Fur Care</li>
