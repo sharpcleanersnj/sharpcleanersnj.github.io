@@ -10,7 +10,7 @@ Please use the form below to send us a message with any questions or comments. W
   <div class="row">
     <div class="col s12 m6 l3">
       <h4><strong>Ventnor</strong></h4>
-      <p><span style="color: #808080;"><strong>Dry Cleaners</strong></span><br /><strong>6519 Ventnor Ave. <br />Ventnor, NJ 08406<br />(609) 822-5866</strong><br /><span style="color: #808080;"><strong>Hours</strong></span><br />Monday - Saturday </ br>9-5PM<br />Sunday CLOSED</p>
+      <p><span style="color: #808080;"><strong>Dry Cleaners</strong></span><br /><strong>6519 Ventnor Ave. <br />Ventnor, NJ 08406<br />(609) 822-5866</strong><br /><span style="color: #808080;"><strong>Hours</strong></span><br />Monday - Saturday <br />9-5PM<br />Sunday CLOSED</p>
     </div>
     <div class="col s12 m6 l3">
       <h4><strong>Ocean City</strong></h4>
