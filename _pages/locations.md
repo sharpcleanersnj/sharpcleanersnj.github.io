@@ -19,7 +19,8 @@ permalink: /locations/
       <p><span style="color: #808080;"><strong>Dry Cleaners</strong></span><br />121 E. 10th St.<br />Ocean City, NJ 08226<br />(609) 399-7399<br /><span style="color: #808080;"><strong>Hours</strong></span><br />Monday - Saturday 9-5PM<br />Sunday CLOSED</p>
       <p><span style="color: #808080;"><strong>Laundromat</strong></span><br />742 Haven Ave<br />Ocean City, NJ 08226<br />(609) 365-0711<br /><span style="color: #808080;"><strong>Open 24 Hours</strong></span><br /></p>
     </div>
-    <div class="col s12 m6 l3">
+<div class="row">
+   <div class="col s12 m6 l3">
       <h6><strong>Sea Isle City</strong></h6>
       <p><span style="color: #808080;"><strong>Dry Cleaners</strong></span><br />6216 Landis Ave.<br />Sea Isle City, NJ 08243<br />(609) 263-6400<br /><span style="color: #808080;"><strong>Winter Hours</strong></span><br />Monday 11-5PM<br />Tuesday 11-5PM<br />Wednesday CLOSED<br />Thursday 11-5PM<br />Friday 11-5PM<br />Saturday 9-5PM<br />Sunday CLOSED</p>
     </div>
