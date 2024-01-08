@@ -16,12 +16,12 @@ permalink: /locations/
     </div>
     <div class="col s12 m6 l3">
       <h3><strong>Ocean City</strong></h3>
-      <p><span style="color: #808080;"><strong>Dry Cleaners</strong></span><br />121 E. 10th St.<br />Ocean City, NJ 08226<br />(609) 399-7399<br /><span style="color: #808080;"><strong>Hours</strong></span><br />Monday - Friday<br /> 8:30-5:30PM<br />Saturday 9-5PM<br />Sunday CLOSED</p>
+      <p><span style="color: #808080;"><strong>Dry Cleaners</strong></span><br />121 E. 10th St.<br />Ocean City, NJ 08226<br />(609) 399-7399<br /><span style="color: #808080;"><strong>Hours</strong></span><br />Monday - Saturday 9-5PM<br />Sunday CLOSED</p>
       <p><span style="color: #808080;"><strong>Laundromat</strong></span><br />742 Haven Ave<br />Ocean City, NJ 08226<br />(609) 365-0711<br /><span style="color: #808080;"><strong>Open 24 Hours</strong></span><br /></p>
     </div>
     <div class="col s12 m6 l3">
       <h3><strong>Sea Isle City</strong></h3>
-      <p><span style="color: #808080;"><strong>Dry Cleaners</strong></span><br />6216 Landis Ave.<br />Sea Isle City, NJ 08243<br />(609) 263-6400<br /><span style="color: #808080;"><strong>Hours</strong></span><br />Monday - Friday <br />9-5:30PM<br />Saturday 9-5PM<br />Sunday CLOSED</p>
+      <p><span style="color: #808080;"><strong>Dry Cleaners</strong></span><br />6216 Landis Ave.<br />Sea Isle City, NJ 08243<br />(609) 263-6400<br /><span style="color: #808080;"><strong>Winter Hours</strong></span><br />Monday 11-5PM<br /><br />Tuesday 11-5PM<br /><br />Wednesday CLOSED<br /><br />Thursday 11-5PM<br /><br />Friday 11-5PM<br />Saturday 9-5PM<br />Sunday CLOSED</p>
     </div>
     <div class="col s12 m6 l3">
       <h3><strong>Wildwood</strong></h3>
