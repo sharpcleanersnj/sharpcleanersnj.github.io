@@ -8,27 +8,30 @@ Please use the form below to send us a message with any questions or comments. W
 
 <div id="locations-info">
   <div class="row">
-    <div class="col s12 m6 l3">
-      <h2><strong>Ventnor</strong></h2>
-      <p><span style="color: #808080;"><strong>Dry Cleaners</strong></span><br /><strong>6519 Ventnor Ave. <br />Ventnor, NJ 08406<br />(609) 822-5866</strong><br /><span style="color: #808080;"><strong>Hours</strong></span><br />Monday - Saturday <br />9-5PM<br />Sunday CLOSED</p>
+     <div class="col s12 m6 l3">
+      <h6><strong>Northfield</strong></h6>
+      <p><span style="color: #808080;"><strong>Dry Cleaners</strong></span><br />2327 New Road<br />Northfield, NJ 08225<br />(609) 485-2325<br /><span style="color: #808080;"><strong>Hours</strong></span><br />Monday - Friday 8-6PM<br />Saturday 8-5PM<br />Sunday CLOSED</p>
     </div>
     <div class="col s12 m6 l3">
-      <h2><strong>Ocean City</strong></h4h2>
-      <p><span style="color: #808080;"><strong>Dry Cleaners</strong></span><br /><strong>121 E. 10th St.<br />Ocean City, NJ 08226<br />(609) 399-7399</strong><br /><span style="color: #808080;"><strong>Hours</strong></span><br />Monday - Friday<br /> 8:30-5:30PM<br />Saturday 9-5PM<br />Sunday CLOSED</p>
-      <p><span style="color: #808080;"><strong>Laundromat</strong></span><br /><strong>742 Haven Ave<br />Ocean City, NJ 08226<br />(609) 365-0711</strong><br /><span style="color: #808080;"><strong>Open 24 Hours</strong></span><br /></p>
+      <h6><strong>Ventnor</strong></h6>
+      <p><span style="color: #808080;"><strong>Dry Cleaners</strong></span><br />6519 Ventnor Ave. <br />Ventnor, NJ 08406<br />(609) 822-5866<br /><span style="color: #808080;"><strong>Hours</strong></span><br />Monday - Saturday 9-5PM<br />Sunday CLOSED</p>
     </div>
     <div class="col s12 m6 l3">
-      <h2><strong>Sea Isle City</strong></h2>
-      <p><span style="color: #808080;"><strong>Dry Cleaners</strong></span><br /><strong>6216 Landis Ave.<br />Sea Isle City, NJ 08243<br />(609) 263-6400</strong><br /><span style="color: #808080;"><strong>Hours</strong></span><br />Monday - Friday <br />9-5:30PM<br />Saturday 9-5PM<br />Sunday CLOSED</p>
+      <h6><strong>Ocean City</strong></h6>
+      <p><span style="color: #808080;"><strong>Dry Cleaners</strong></span><br />121 E. 10th St.<br />Ocean City, NJ 08226<br />(609) 399-7399<br /><span style="color: #808080;"><strong>Hours</strong></span><br />Monday - Saturday 9-5PM<br />Sunday CLOSED</p>
+      <p><span style="color: #808080;"><strong>Laundromat</strong></span><br />742 Haven Ave<br />Ocean City, NJ 08226<br />(609) 365-0711<br /><span style="color: #808080;"><strong>Open 24 Hours</strong></span><br /></p>
     </div>
     <div class="col s12 m6 l3">
-      <h2><strong>Wildwood</strong></h2>
-      <p><span style="color: #808080;"><strong>Dry Cleaners &amp; Laundromat</strong></span><br /><strong>3401 New Jersey Ave. #4<br />Wildood, NJ 08260<br />(609) 522-7719</strong><br /><span style="color: #808080;"><strong>Dry Cleaners Hours</strong></span><br />Monday - Friday<br /> 9-5PM<br />Saturday 9-4PM<br /> Sunday CLOSED</p>
+      <h6><strong>Sea Isle City</strong></h6>
+      <p><span style="color: #808080;"><strong>Dry Cleaners</strong></span><br />6216 Landis Ave.<br />Sea Isle City, NJ 08243<br />(609) 263-6400<br /><span style="color: #808080;"><strong>Winter Hours</strong></span><br />Monday 11-5PM<br />Tuesday 11-5PM<br />Wednesday CLOSED<br />Thursday 11-5PM<br />Friday 11-5PM<br />Saturday 9-5PM<br />Sunday CLOSED</p>
+    </div>
+    <div class="col s12 m6 l3">
+      <h6><strong>Wildwood</strong></h6>
+      <p><span style="color: #808080;"><strong>Dry Cleaners & Laundromat</strong></span><br />3401 New Jersey Ave. #4<br />Wildood, NJ 08260<br />(609) 522-7719<br /><span style="color: #808080;"><strong>Dry Cleaners Hours</strong></span><br />Monday - Friday 9-5PM<br />Saturday 9-4PM<br /> Sunday CLOSED</p>
       <p><span style="color: #808080;"><strong>Laundromat Hours</strong></span><br />DAILY 7AM - 9PM<br /></p>
     </div>
   </div>
 </div>
-
 ### Questions? Comments?
 ##### We would love to hear from you!
 Just fill out the form below, and we'll be in touch soon!
