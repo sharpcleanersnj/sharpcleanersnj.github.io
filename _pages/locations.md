@@ -25,7 +25,7 @@ permalink: /locations/
     </div>
     <div class="col s12 m6 l3">
       <h3><strong>Wildwood</strong></h3>
-      <p><span style="color: #808080;"><strong>Dry Cleaners & Laundromat</strong></span><br />3401 New Jersey Ave. #4<br />Wildood, NJ 08260<br />(609) 522-7719<br /><span style="color: #808080;"><strong>Dry Cleaners Hours</strong></span><br />Monday - Friday<br /> 9-5PM<br />Saturday 9-4PM<br /> Sunday CLOSED</p>
+      <p><span style="color: #808080;"><strong>Dry Cleaners & Laundromat</strong></span><br />3401 New Jersey Ave. #4<br />Wildood, NJ 08260<br />(609) 522-7719<br /><span style="color: #808080;"><strong>Dry Cleaners Hours</strong></span><br />Monday - Friday 9-5PM<br />Saturday 9-4PM<br /> Sunday CLOSED</p>
       <p><span style="color: #808080;"><strong>Laundromat Hours</strong></span><br />DAILY 7AM - 9PM<br /></p>
     </div>
   </div>
