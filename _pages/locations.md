@@ -6,6 +6,10 @@ permalink: /locations/
 <center><iframe src="https://www.google.com/maps/d/u/0/embed?mid=13szKy6mRagCj-x2ouYiW1ftgoWs&ehbc=2E312F" width="640" height="480"></iframe>
 <div id="locations-info">
   <div class="row">
+     <div class="col s12 m6 l3">
+      <h4><strong>Northfield</strong></h4>
+      <p><span style="color: #808080;"><strong>Dry Cleaners</strong></span><br /><strong>2327 New Road<br />Northfield, NJ 08225<br />(609) 485-2325</strong><br /><span style="color: #808080;"><strong>Hours</strong></span><br />Monday - Friday <br />8-6PM<br />Saturday 8-5PM<br />Sunday CLOSED</p>
+    </div>
     <div class="col s12 m6 l3">
       <h4><strong>Ventnor</strong></h4>
       <p><span style="color: #808080;"><strong>Dry Cleaners</strong></span><br /><strong>6519 Ventnor Ave. <br />Ventnor, NJ 08406<br />(609) 822-5866</strong><br /><span style="color: #808080;"><strong>Hours</strong></span><br />Monday - Saturday <br />9-5PM<br />Sunday CLOSED</p>
