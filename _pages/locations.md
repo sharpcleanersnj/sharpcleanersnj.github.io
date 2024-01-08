@@ -4,7 +4,7 @@ title: Locations & Store Hours
 permalink: /locations/
 ---
 <center> <iframe src="https://www.google.com/maps/d/u/0/embed?mid=13szKy6mRagCj-x2ouYiW1ftgoWs&ehbc=2E312F" width="640" height="480"></iframe>
-<div id="locations-info">
+
  <div class="container">
   <div class="row">
     <div class="col-sm-4"><h6><strong>Northfield</strong></h6>
