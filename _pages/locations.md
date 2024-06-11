@@ -22,7 +22,7 @@ permalink: /locations/
 <div class="row">
    <div class="col-sm-4">
       <h5><strong>Sea Isle City</strong></h5>
-      <p><span style="color: #808080;"><strong>Dry Cleaners</strong></span><br />6216 Landis Ave.<br />Sea Isle City, NJ 08243<br />(609) 263-6400<br /><span style="color: #808080;"><strong>Winter Hours</strong></span><br />Monday 11-5PM<br />Tuesday 11-5PM<br />Wednesday CLOSED<br />Thursday 11-5PM<br />Friday 11-5PM<br />Saturday 9-5PM<br />Sunday CLOSED</p>
+       <p><span style="color: #808080;"><strong>Dry Cleaners</strong></span><br />6216 Landis Ave.<br />Sea Isle City, NJ 08243<br />(609) 263-6400<br /><span style="color: #808080;"><strong>Hours</strong></span><br />Monday 10-4PM<br />Tuesday 10-4PM<br />Wednesday 10-4PM<br />Thursday 12-4PM<br />Friday 10-4PM<br />Saturday 10-4PM<br />Sunday CLOSED</p>
     </div>
    <div class="col-sm-4">
       <h5><strong>Wildwood</strong></h5>
