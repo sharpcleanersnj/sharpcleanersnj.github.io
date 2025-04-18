@@ -17,7 +17,7 @@ permalink: /locations/
     <div class="col-sm-4">
       <h5><strong>Ocean City</strong></h5>
       <p><span style="color: #808080;"><strong>Dry Cleaners</strong></span><br />121 E. 10th St.<br />Ocean City, NJ 08226<br />(609) 399-7399<br /><span style="color: #808080;"><strong>Hours</strong></span><br />Monday - Saturday 9-5PM<br />Sunday CLOSED</p>
-      <p><span style="color: #808080;"><strong>Laundromat</strong></span><br />742 Haven Ave<br />Ocean City, NJ 08226<br />(609) 365-0711<br /><span style="color: #808080;"><strong>Open 24 Hours</strong></span><br /></p>
+      <p><span style="color: #808080;"><strong>Laundromat</strong></span><br />PERMANENTLY CLOSED</strong></span><br /></p>
     </div>
 <div class="row">
    <div class="col-sm-4">
