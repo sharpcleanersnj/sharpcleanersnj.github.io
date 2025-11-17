@@ -198,7 +198,6 @@ permalink: /locations/
 
 <section class="locations-page">
   <header class="locations-header">
-    <h1>Locations &amp; Store Hours</h1>
     <p>Visit any Sharp Cleaners location for professional dry cleaning and laundry services.</p>
     <p>Hours may vary on holidays. Please call to confirm.</p>
   </header>
