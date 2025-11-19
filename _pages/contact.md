@@ -27,7 +27,7 @@ Please use the form below to send us a message with any questions or comments. W
     <div class="col s12 m6 l3">
       <h5><strong>Wildwood</strong></h5>
       <p><span style="color: #808080;"><strong>Dry Cleaners & Laundromat</strong></span><br />3401 New Jersey Ave. #4<br />Wildwood, NJ 08260<br />(609) 522-7719<br /><span style="color: #808080;"><strong>Dry Cleaners Hours</strong></span><br />Monday - Wednesday 10-5PM<br />Thursday CLOSED<br />Friday 10-5PM<br />Saturday 10-4PM<br /> Sunday CLOSED</p>
-      <p><span style="color: #808080;"><strong>Laundromat Hours</strong></span><br />DAILY 7AM - 9PM<br /></p>
+      <p><span style="color: #808080;"><strong>Laundromat Hours</strong></span><br />OPEN 24 HOURS<br /></p>
     </div>
   </div>
 </div>
