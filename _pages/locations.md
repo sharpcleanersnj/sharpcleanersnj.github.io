@@ -423,8 +423,8 @@ permalink: /locations/
       <div class="hours-block">
         <div class="hours-title">Laundromat Hours</div>
         <div class="hours-list">
-          <span class="hours-day">Daily</span>
-          <span class="hours-time">7 AM – 9 PM</span>
+          <span class="hours-day">OPEN</span>
+          <span class="hours-time">24 HOURS</span>
         </div>
       </div>
 
