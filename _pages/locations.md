@@ -403,9 +403,15 @@ permalink: /locations/
       <div class="hours-block">
         <div class="hours-title">Dry Cleaners Hours</div>
         <div class="hours-list">
-          <span class="hours-day">Mon – Wed</span>
+          <span class="hours-day">Monday</span>
           <span class="hours-time">10 AM – 5 PM</span>
+          
+          <span class="hours-day">Tuesday</span>
+          <span class="hours-time closed">Closed</span>
 
+          <span class="hours-day">Wednesday</span>
+          <span class="hours-time">10 AM – 5 PM</span>
+          
           <span class="hours-day">Thursday</span>
           <span class="hours-time closed">Closed</span>
 
