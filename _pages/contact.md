@@ -288,7 +288,7 @@ permalink: /contact/
 
         <form
           method="POST"
-          action="https://formspree.io/sharpcleaners@gmail.com"
+          action="https://formspree.io/f/xanvvbja"
         >
 
           <div class="contact-form-row">
