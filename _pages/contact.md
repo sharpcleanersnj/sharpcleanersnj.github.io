@@ -429,7 +429,9 @@ permalink: /contact/
             </div>
             <div class="location-hours-title">Dry Cleaners Hours</div>
             <div class="location-hours">
-              <span>Mon – Wed 10:00 AM – 5:00 PM</span>
+              <span>Mononday 10:00 AM – 5:00 PM</span>
+              <span>Tuesday Closed</span>
+              <span>Wednesday 10:00 AM – 5:00 PM</span>
               <span>Thursday Closed</span>
               <span>Friday 10:00 AM – 5:00 PM</span>
               <span>Saturday 10:00 AM – 4:00 PM</span>
