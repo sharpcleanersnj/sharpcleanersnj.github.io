@@ -407,12 +407,12 @@ permalink: /contact/
             </div>
             <div class="location-hours-title">Store Hours</div>
             <div class="location-hours">
-              <span>Monday 10:00 AM – 4:00 PM</span>
-              <span>Tuesday Closed</span>
-              <span>Wednesday 10:00 AM – 4:00 PM</span>
+              <span>Monday 10:00 AM – 4:30 PM</span>
+              <span>Tuesday 10:00 AM – 4:30 PM</span>
+              <span>Wednesday 10:00 AM – 4:30 PM</span>
               <span>Thursday Closed</span>
-              <span>Friday 10:00 AM – 4:00 PM</span>
-              <span>Saturday 10:00 AM – 3:00 PM</span>
+              <span>Friday 10:00 AM – 4:30 PM</span>
+              <span>Saturday 10:00 AM – 4:00 PM</span>
               <span class="closed">Sunday Closed</span>
             </div>
           </div>
