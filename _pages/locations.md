@@ -354,7 +354,7 @@ permalink: /locations/
           <span class="hours-time">10 AM – 4:30 PM</span>
 
           <span class="hours-day">Tuesday</span>
-          <span class="hours-time closed">10 AM – 4:30 PM</span>
+          <span class="hours-time">10 AM – 4:30 PM</span>
 
           <span class="hours-day">Wednesday</span>
           <span class="hours-time">10 AM – 4:30 PM</span>
