@@ -354,22 +354,22 @@ permalink: /locations/
           <span class="hours-time">10 AM – 5 PM</span>
 
           <span class="hours-day">Tuesday</span>
-          <span class="hours-time closed">CLOSED</span>
+          <span class="hours-time closed">Closed</span>
 
           <span class="hours-day">Wednesday</span>
           <span class="hours-time">10 AM – 5 PM</span>
 
           <span class="hours-day">Thursday</span>
-          <span class="hours-time closed">CLOSED</span>
+          <span class="hours-time closed">Closed</span>
 
           <span class="hours-day">Friday</span>
           <span class="hours-time">10 AM – 5 PM</span>
 
           <span class="hours-day">Saturday</span>
-         <span class="hours-time closed">CLOSED</span>
+         <span class="hours-time closed">Closed</span>
 
           <span class="hours-day">Sunday</span>
-          <span class="hours-time closed">CLOSED</span>
+          <span class="hours-time closed">Closed</span>
         </div>
       </div>
 
@@ -404,22 +404,22 @@ permalink: /locations/
         <div class="hours-title">Dry Cleaners Hours</div>
         <div class="hours-list">
           <span class="hours-day">Monday</span>
-          <span class="hours-time">10 AM – 5 PM</span>
+          <span class="hours-time closed">Closed</span>
           
           <span class="hours-day">Tuesday</span>
-          <span class="hours-time closed">Closed</span>
+          <span class="hours-time">10 AM – 5 PM</span>
 
           <span class="hours-day">Wednesday</span>
-          <span class="hours-time">10 AM – 5 PM</span>
+          <span class="hours-time closed">Closed</span>
           
           <span class="hours-day">Thursday</span>
-          <span class="hours-time closed">Closed</span>
-
-          <span class="hours-day">Friday</span>
           <span class="hours-time">10 AM – 5 PM</span>
 
+          <span class="hours-day">Friday</span>
+          <span class="hours-time closed">Closed</span>
+
           <span class="hours-day">Saturday</span>
-          <span class="hours-time">10 AM – 4 PM</span>
+         <span class="hours-time">10 AM – 3 PM</span>
 
           <span class="hours-day">Sunday</span>
           <span class="hours-time closed">Closed</span>
