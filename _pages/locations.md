@@ -354,19 +354,19 @@ permalink: /locations/
           <span class="hours-time">10 AM – 5 PM</span>
 
           <span class="hours-day">Tuesday</span>
-          <span class="hours-time">CLOSED</span>
+          <span class="hours-time closed">CLOSED</span>
 
           <span class="hours-day">Wednesday</span>
           <span class="hours-time">10 AM – 5 PM</span>
 
           <span class="hours-day">Thursday</span>
-          <span class="hours-time">CLOSED</span>
+          <span class="hours-time closed">CLOSED</span>
 
           <span class="hours-day">Friday</span>
           <span class="hours-time">10 AM – 5 PM</span>
 
           <span class="hours-day">Saturday</span>
-          <span class="hours-time">CLOSED</span>
+         <span class="hours-time closed">CLOSED</span>
 
           <span class="hours-day">Sunday</span>
           <span class="hours-time closed">CLOSED</span>
