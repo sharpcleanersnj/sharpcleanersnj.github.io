@@ -348,7 +348,7 @@ permalink: /locations/
       </div>
 
       <div class="hours-block">
-        <div class="hours-title">Store Hours</div>
+        <div class="hours-title">Winter Store Hours</div>
         <div class="hours-list">
           <span class="hours-day">Monday</span>
           <span class="hours-time">10 AM – 5 PM</span>
@@ -401,7 +401,7 @@ permalink: /locations/
       </div>
 
       <div class="hours-block">
-        <div class="hours-title">Dry Cleaners Hours</div>
+        <div class="hours-title">Winter Dry Cleaners Hours</div>
         <div class="hours-list">
           <span class="hours-day">Monday</span>
           <span class="hours-time closed">Closed</span>
