@@ -369,7 +369,8 @@ permalink: /contact/
             </div>
             <div class="location-hours-title">Store Hours</div>
             <div class="location-hours">
-              <span>Mon – Sat 9:00 AM – 5:00 PM</span>
+              <span>Mon – Fri 9:00 AM – 5:00 PM</span>
+              <span>Sat 10:00 AM – 4:00 PM</span>
               <span class="closed">Sunday Closed</span>
             </div>
           </div>
@@ -405,14 +406,14 @@ permalink: /contact/
             <div class="location-phone">
               <a href="tel:+16092636400">(609) 263-6400</a>
             </div>
-            <div class="location-hours-title">Store Hours</div>
+            <div class="location-hours-title">Winter Store Hours</div>
             <div class="location-hours">
-              <span>Monday 10:00 AM – 4:30 PM</span>
-              <span>Tuesday 10:00 AM – 4:30 PM</span>
-              <span>Wednesday 10:00 AM – 4:30 PM</span>
-              <span>Thursday Closed</span>
-              <span>Friday 10:00 AM – 4:30 PM</span>
-              <span>Saturday 10:00 AM – 4:00 PM</span>
+              <span>Monday 10:00 AM – 5 PM</span>
+              <span class="closed">Tuesday Closed</span>
+              <span>Wednesday 10:00 AM – 5 PM</span>
+              <span class="closed">Thursday Closed</span>
+              <span>Friday 10:00 AM - 5 PM</span>
+              <span class="closed">Saturday Closed</span>
               <span class="closed">Sunday Closed</span>
             </div>
           </div>
@@ -427,19 +428,19 @@ permalink: /contact/
             <div class="location-phone">
               <a href="tel:+16095227719">(609) 522-7719</a>
             </div>
-            <div class="location-hours-title">Dry Cleaners Hours</div>
+            <div class="location-hours-title">Winter Dry Cleaners Hours</div>
             <div class="location-hours">
-              <span>Mononday 10:00 AM – 5:00 PM</span>
-              <span>Tuesday Closed</span>
-              <span>Wednesday 10:00 AM – 5:00 PM</span>
-              <span>Thursday Closed</span>
-              <span>Friday 10:00 AM – 5:00 PM</span>
-              <span>Saturday 10:00 AM – 4:00 PM</span>
+              <span class="closed">Monday Closed</span>
+              <span>Tuesday 10:00 AM – 5:00 PM</span>
+              <span class="closed">Wednesday Closed</span>
+              <span>Thursday 10:00 AM – 5:00 PM</span>
+              <span class="closed">Friday Closed</span>
+              <span>Saturday 10:00 AM – 3:00 PM</span>
               <span class="closed">Sunday Closed</span>
             </div>
             <div class="location-hours-title">Laundromat Hours</div>
             <div class="location-hours">
-              <span>Daily 7:00 AM – 9:00 PM</span>
+              <span>Open 24 Hours</span>
             </div>
           </div>
 
