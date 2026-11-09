@@ -390,10 +390,6 @@ permalink: /contact/
               <span>Mon – Sat 9:00 AM – 5:00 PM</span>
               <span class="closed">Sunday Closed</span>
             </div>
-            <div class="location-hours-title">Laundromat Hours</div>
-            <div class="location-hours">
-              <span>Open 24 Hours</span>
-            </div>
           </div>
 
           <div class="location-item">
